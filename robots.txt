@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://uwapiete.github.io/CpT/sitemap_index.txt
+Sitemap: https://uwapiete.github.io/fhp/sitemap_index.txt
+Sitemap: https://uwapiete.github.io/otT/sitemap_index.txt
+Sitemap: https://uwapiete.github.io/vjp/sitemap_index.txt
